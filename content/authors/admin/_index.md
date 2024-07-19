@@ -48,7 +48,7 @@ interests:
   - International Finance
 
 education:
-  - area: PhD in Economics
+  - area: PhD in Economics (present)
     institution: Emory University
     #date_start: 2023-08-27
     #date_end: ''
@@ -58,20 +58,20 @@ education:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
   - area: MA in Economics
-    institution: Yonsei University
-    date_start: 2021-03-02
-    date_end: 2022-06-30
-    summary: |
-      GPA: 3.8/4.0
+    institution: Yonsei University, 2022
+    #date_start: 2021-03-02
+    #date_end: 2022-06-30
+    #summary: |
+    #  GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BA in International Studies and Economics
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BA in International Studies and Economics, 2020
     institution: Kyung Hee University
-    date_start: 2016-03-02
-    date_end: 2020-06-30
+    #date_start: 2016-03-02
+    #date_end: 2020-06-30
     #summary: |
     #  GPA: 3.4/4.0
       
