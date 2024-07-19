@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD in Economics
     institution: Emory University
-    date_start: Fall 2023
-    date_end: present
+    date_start: 2023-03
+    date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -59,8 +59,8 @@ education:
       url: 'https://example.com'
   - area: MA in Economics
     institution: Yonsei University
-    date_start: Spring 2021
-    date_end: Spring 2022
+    date_start: 2021-03
+    date_end: 2022-06
     summary: |
       GPA: 3.8/4.0
 
@@ -70,8 +70,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BA in International Studies and Economics
     institution: Kyung Hee University
-    date_start: Spring 2016
-    date_end: Spring 2020
+    date_start: 2016-03
+    date_end: 2020-06
     #summary: |
     #  GPA: 3.4/4.0
       
