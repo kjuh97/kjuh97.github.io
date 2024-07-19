@@ -80,23 +80,23 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: ''
+  #- position: 
+  #  company_name: 
+  #  company_url: ''
+  #  company_logo: ''
+  #  date_start: 
+  #  date_end: ''
   #  summary: |2-
   #    Responsibilities include:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: 
+  #- position: 
+  #  company_name: 
+  #  company_url: ''
+  #  company_logo: ''
+  #  date_start: 
+  #  date_end: 
   #  summary: |
   #    Responsibilities include:
   #    - Migrated infrastructure to a new data center
