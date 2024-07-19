@@ -51,7 +51,7 @@ education:
   - area: PhD in Economics
     institution: Emory University
     date_start: 2023-08-27
-    date_end: ''
+    date_end: 'present'
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
