@@ -144,9 +144,9 @@ skills:
 
 languages:
   - name: English
-    #percent: 100
+    percent: 80
   - name: Korean
-    #percent: 75
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
