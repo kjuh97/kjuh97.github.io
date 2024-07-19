@@ -57,8 +57,8 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MA in Economics
-    institution: Yonsei University, 2022
+  - area: MA in Economics, 2022
+    institution: Yonsei University
     #date_start: 2021-03-02
     #date_end: 2022-06-30
     #summary: |
@@ -86,22 +86,22 @@ work:
     company_logo: ''
     date_start: 
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  #  summary: |2-
+  #    Responsibilities include:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: 
+    company_name: 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 
+    date_end: 
+  #  summary: |
+  #    Responsibilities include:
+  #    - Migrated infrastructure to a new data center
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
