@@ -37,7 +37,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/kjuh97
   - icon: brands/linkedin
-    url: https://www.linkedin.com/kjuh97
+    url: https://www.linkedin.com/in/juhee-kim-2a8b49318/
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   #- icon: academicons/orcid
