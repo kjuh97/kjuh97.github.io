@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juheeee Kim
+title: Juhee Kim
 
 # Full name (for SEO)
 first_name: Juhee
