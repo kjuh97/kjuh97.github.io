@@ -59,8 +59,8 @@ education:
     #  url: 'https://example.com'
   - area: MA in Economics, 2022
     institution: Yonsei University
-    #date_start: 2021-03-02
-    #date_end: 2022-06-30
+    date_start: 2021-03-02
+    date_end: 2022-08-31
     #summary: |
     #  GPA: 3.8/4.0
 
@@ -70,8 +70,8 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BA in International Studies and Economics, 2020
     institution: Kyung Hee University
-    #date_start: 2016-03-02
-    #date_end: 2020-06-30
+    date_start: 2016-03-02
+    date_end: 2020-08-31
     #summary: |
     #  GPA: 3.4/4.0
       
