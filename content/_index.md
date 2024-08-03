@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: ''
+      title: '📚 My Research'
       subtitle: ''
       text: |-
         
@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 
+      title: Featured Publications
       filters:
         folders:
           - publication
@@ -51,7 +51,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: 
+      title: Recent Publications
       text: ""
       filters:
         folders:
@@ -62,7 +62,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - event
@@ -72,7 +72,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: 
+      title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
