@@ -71,7 +71,7 @@ education:
   - area: BA in International Studies and Economics
     institution: Kyung Hee University
     date_start: 2016-03-02
-    date_end: 2020-08-31
+    date_end: 2021-02-30
     #summary: |
     #  GPA: 3.4/4.0
       
