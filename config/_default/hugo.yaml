@@ -6,7 +6,7 @@
 # Website name
 title: Juhee's homepage
 # Website URL
-baseURL: 'https://juheekim.org/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
