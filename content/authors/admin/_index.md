@@ -57,7 +57,7 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MA in Economics, 2022
+  - area: MA in Economics
     institution: Yonsei University
     date_start: 2021-03-02
     date_end: 2022-08-31
@@ -68,7 +68,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BA in International Studies and Economics, 2020
+  - area: BA in International Studies and Economics
     institution: Kyung Hee University
     date_start: 2016-03-02
     date_end: 2020-08-31
