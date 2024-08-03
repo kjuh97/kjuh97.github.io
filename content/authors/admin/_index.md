@@ -48,7 +48,7 @@ interests:
   - International Finance
 
 education:
-  - area: PhD in Economics (present)
+  - area: PhD in Economics
     institution: Emory University
     #date_start: 2023-08-27
     #date_end: ''
